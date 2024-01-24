@@ -1,0 +1,12 @@
+{
+  "nome": "João",
+  "idade": 1,
+  "cidade": "Moc",
+  "cnh": true,
+  "apelidos": [],
+  "pets": [
+    {
+      "nome": "asdfasdf"
+    }
+  ]
+}
